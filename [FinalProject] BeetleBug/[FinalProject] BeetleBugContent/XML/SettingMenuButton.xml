@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="MyDataTypes.MyButton[]">
+    <Item>
+      <Name>Sound</Name>
+      <Top>300</Top>
+      <Left>105</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Music</Name>
+      <Top>400</Top>
+      <Left>105</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Info</Name>
+      <Top>500</Top>
+      <Left>115</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+  </Asset>
+
+</XnaContent>

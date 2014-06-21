@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_FinalProject__BeetleBug.Game1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAACAAAAwAAAAAAAAAAAAAAEAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.GameEntity">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.VisibleGameEntity">
+    <Position X="20.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAEgAAAAAAAAAAAAQAAAAAAAAAQAQAAAA=</HashCode>
+      <FileName>VisibleGameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.InvisibleGameEntity">
+    <Position X="36.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InvisibleGameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Form">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.LoadingForm">
+    <Position X="8.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.MainMenuForm">
+    <Position X="10.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQABABAIAAABgAAEAIAAAAACIAAQAAAAAABAAAAAgQ=</HashCode>
+      <FileName>MainMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Map">
+    <Position X="28.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.My2DSprite">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAQABQAAEgjkAAIAAEAgAAAKAAAgCAAARKACABA=</HashCode>
+      <FileName>My2DSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Camera2D">
+    <Position X="33.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEQAAAQJAAAAAAACAAAAAAAAAFIQAABAIQAEAQAAA=</HashCode>
+      <FileName>Camera2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.AbstractPathUpdater">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractPathUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.PathUpdater2D">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PathUpdater2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.LinearPathUpdater2D">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAgCAAAAAAAAAAAAAAAAAAAAYAQAAAAAYAA=</HashCode>
+      <FileName>LinearPathUpdater2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.MouseEventHelper">
+    <Position X="35.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwQAAEAABACAABAAEBAEACAABAAAQAAAQAAAAACAAAA=</HashCode>
+      <FileName>MouseEventHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.KeyboardEventHelper">
+    <Position X="37.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAQAAAAAACAABAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>KeyboardEventHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.MusicHelper">
+    <Position X="39.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAQACAAAAAAABAAAAAAAQAAIAAAAAAA=</HashCode>
+      <FileName>MusicHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.SoundEffectHelper">
+    <Position X="41" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAgABAAEAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>SoundEffectHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Button">
+    <Position X="1.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Character">
+    <Position X="3.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBBAAAAIAAAgAAQAAAAAAAAAAAAAEAAAQAAAAEAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Lable">
+    <Position X="5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.SelectLevelForm">
+    <Position X="12" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAABAAAAAAAAAAAAAAAQAAAAAABAACAAAQ=</HashCode>
+      <FileName>SelectLevelForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.SettingForm">
+    <Position X="13.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAFAAAAAAgAAEAMABAAAAAAAQAAABAABAQAAAgQ=</HashCode>
+      <FileName>SettingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.InfoForm">
+    <Position X="15.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.MoreForm">
+    <Position X="17.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.Panel">
+    <Position X="6.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Panel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.QuitWarningForm">
+    <Position X="19" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABABAAAAAAgAAEAMABAAAAAAAQAAAAAABAQAAAgQ=</HashCode>
+      <FileName>QuitWarningForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_FinalProject__BeetleBug.GameForm">
+    <Position X="20.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

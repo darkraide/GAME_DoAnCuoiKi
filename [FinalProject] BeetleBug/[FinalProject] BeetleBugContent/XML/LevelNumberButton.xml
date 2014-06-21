@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="MyDataTypes.MyButton[]">
+    <Item>
+      <Name>Level01</Name>
+      <Top>275</Top>
+      <Left>408</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level02</Name>
+      <Top>275</Top>
+      <Left>524</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level03</Name>
+      <Top>275</Top>
+      <Left>638</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level04</Name>
+      <Top>275</Top>
+      <Left>755</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level05</Name>
+      <Top>275</Top>
+      <Left>867</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level06</Name>
+      <Top>407</Top>
+      <Left>408</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level07</Name>
+      <Top>407</Top>
+      <Left>524</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level08</Name>
+      <Top>395</Top>
+      <Left>638</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+    <Item>
+      <Name>Level09</Name>
+      <Top>395</Top>
+      <Left>755</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    <Item>
+      <Name>Level10</Name>
+      <Top>395</Top>
+      <Left>867</Left>
+      <FormID>1</FormID>
+      <ToForm>1</ToForm>
+    </Item>
+
+    
+  </Asset>
+
+</XnaContent>
